@@ -1,7 +1,7 @@
-package com.primeiraapijava.demo.controllers;
+package com.apirrest.userdept.controllers;
 
-import com.primeiraapijava.demo.entities.User;
-import com.primeiraapijava.demo.repositories.UserRepository;
+import com.apirrest.userdept.repositories.UserRepository;
+import com.apirrest.userdept.entities.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package com.primeiraapijava.demo.entities;
+package com.apirrest.userdept.entities;
 
 import jakarta.persistence.*;
 

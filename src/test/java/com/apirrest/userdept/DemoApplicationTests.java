@@ -1,4 +1,4 @@
-package com.primeiraapijava.demo;
+package com.apirrest.userdept;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
